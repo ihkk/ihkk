@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @ihkk
-- 🌱 I’m currently learning **C**, **Java** and **Javascript**
 - 💕 Likes Japan Anime and enjoys making fansubs with **Aegisub**
 - 📫 Contact me: i#ihkk.net
 
