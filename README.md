@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @ihkk
-- 💕 Likes Japan Anime and enjoys making fansubs with **Aegisub**
 - 📫 Contact me: i#ihkk.net
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ihkk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
