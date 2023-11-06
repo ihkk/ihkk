@@ -6,18 +6,16 @@
 
 ### I'm familiar with
 
-[![Programming Language](https://skillicons.dev/icons?i=c,java,lua,py,haskell)]()
+[![Programming Language](https://skillicons.dev/icons?i=c,java,lua,py,haskell,js,html,css)]()
 
-[![Frontend](https://skillicons.dev/icons?i=js,html,css,vue)]()
 
-[![Others](https://skillicons.dev/icons?i=docker,git,sqlite,r,matlab,vscode,wordpress)]()
+[![Others](https://skillicons.dev/icons?i=git,sqlite,r,matlab,vscode)]()
 <img src="https://aegisub.org/favicon.svg" style="height: 50px">
 
-[![Others](https://skillicons.dev/icons?i=ai,ps,pr)]()
 
 ### Now learning
 
-[![Learning](https://skillicons.dev/icons?i=cpp,r)]()
+[![Learning](https://skillicons.dev/icons?i=cpp,r,vue,docker)]()
 
 
 
