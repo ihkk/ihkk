@@ -15,7 +15,7 @@
 
 ### Now learning
 
-[![Learning](https://skillicons.dev/icons?i=cpp,r,vue,docker)]()
+[![Learning](https://skillicons.dev/icons?i=cpp,r,vue,react,docker)]()
 
 
 
