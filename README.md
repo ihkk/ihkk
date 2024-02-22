@@ -6,7 +6,7 @@
 
 ### I'm familiar with
 
-[![Programming Language](https://skillicons.dev/icons?i=c,java,lua,py,haskell,js,html,css)]()
+[![Programming Language](https://skillicons.dev/icons?i=c,cpp,java,lua,py,haskell,js,html,CSS)]()
 
 
 [![Others](https://skillicons.dev/icons?i=git,sqlite,r,matlab,vscode)]()
@@ -15,7 +15,7 @@
 
 ### Now learning
 
-[![Learning](https://skillicons.dev/icons?i=cpp,r,vue,react,docker)]()
+[![Learning](https://skillicons.dev/icons?i=vue,react,docker)]()
 
 
 
