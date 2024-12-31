@@ -6,22 +6,13 @@
 
 ### I'm familiar with
 
-[![Programming Language](https://skillicons.dev/icons?i=c,cpp,java,lua,py,haskell,js,html,CSS)]()
+[![Programming Language](https://skillicons.dev/icons?i=c,cpp,java,lua,py,haskell,js,html,CSS,react)]()
 
 
-[![Others](https://skillicons.dev/icons?i=git,sqlite,r,matlab,vscode)]()
+[![Others](https://skillicons.dev/icons?i=git,sqlite,r,matlab,vscode,docker)]()
 <img src="https://aegisub.org/favicon.svg" style="height: 50px">
 
 
 ### Now learning
 
-[![Learning](https://skillicons.dev/icons?i=vue,react,docker)]()
-
-
-
-
-
-<!---
-ihkk/ihkk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Learning](https://skillicons.dev/icons?i=vue)]()
