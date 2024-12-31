@@ -6,10 +6,10 @@
 
 ### I'm familiar with
 
-[![Programming Language](https://skillicons.dev/icons?i=c,cpp,java,lua,py,haskell,js,html,CSS,react)]()
+[![Programming Language](https://skillicons.dev/icons?i=c,cpp,java,lua,py,haskell,js,html,css,bootstrap,react)]()
 
 
-[![Others](https://skillicons.dev/icons?i=git,sqlite,r,matlab,vscode,docker)]()
+[![Others](https://skillicons.dev/icons?i=git,sqlite,r,matlab,vscode,docker,latex)]()
 <img src="https://aegisub.org/favicon.svg" style="height: 50px">
 
 
