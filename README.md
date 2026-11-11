@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @ihkk
 - 📫 Contact me: i#ihkk.net
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ihkk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![ihkk's GitHub stats](https://github-readme-stats.vercel.app/api?username=ihkk&hide=contribs,prs)
 
 ### I'm familiar with
 
